@@ -13,10 +13,10 @@
 
 ## Content
 
-- [News](##News)
-- [Site](##Site)
-- [Link](##Link)
-- [Chat](##Chat)
+- [News](#News)
+- [Site](#Site)
+- [Link](#Link)
+- [Chat](#Chat)
 
 ## News
 
