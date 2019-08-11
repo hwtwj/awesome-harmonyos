@@ -53,6 +53,7 @@
 
 - [华为开发者大会 <HDC.2019>](https://developer.huawei.com/consumer/cn/events/hdc2019/)
 - [华为开发者社区](https://developer.huawei.com/cn/)
+- [华为官方 GitHub](https://github.com/Huawei)
 
 ## Link
 
